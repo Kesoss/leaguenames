@@ -1,14 +1,14 @@
-League Names
+**League Names**
 
-#Description
+**_Description_**
 This is a python library that turns champions ids to their real names easy and quickly!
 
-##Installation
+**_Installation_**
 ```python
 pip install leaguenames
 ```
 
-##Usage
+**_Usage_**
 ```python
 from leaguenames import leaguenames
 
