@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+src/leaguenames.py
+src/leaguenames.egg-info/PKG-INFO
+src/leaguenames.egg-info/SOURCES.txt
+src/leaguenames.egg-info/dependency_links.txt
+src/leaguenames.egg-info/requires.txt
+src/leaguenames.egg-info/top_level.txt
